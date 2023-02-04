@@ -1,8 +1,10 @@
-import "./App.css";
+import "./styles.scss";
+// import Register from "./pages/Register";
+import Login from "./pages/Login";
 
 function App() {
   return (
-    <h1>Yooooo</h1>
+    <Login/>
   );
 }
 
